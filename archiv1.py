@@ -7,4 +7,7 @@ def function1():
 def function2():
     print("esto es una funcion 2")
 
+def function3():
+    print("esto es una funcion 2")
+
     Pass
